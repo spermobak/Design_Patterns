@@ -1,4 +1,4 @@
-package Singleton;
+package GeneratingPatterns.AbstractFactory.Singleton;
 
 /*Гарантирует что у класса будет только один экземпляр,
 и предоставляет ему глобальную точку доступа*/

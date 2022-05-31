@@ -1,4 +1,4 @@
-package FactoryMethod;
+package GeneratingPatterns.AbstractFactory.FactoryMethod;
 
 /*Определяет интерфейс для создания объекта,
  но оставляет подклассам решение о том,
