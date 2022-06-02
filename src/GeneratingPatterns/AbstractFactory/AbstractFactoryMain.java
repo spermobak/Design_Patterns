@@ -1,4 +1,4 @@
-package AbstractFactory;
+package GeneratingPatterns.AbstractFactory;
 
 /*Фабрика по созданию фабрик*/
 

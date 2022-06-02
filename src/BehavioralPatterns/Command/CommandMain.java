@@ -1,4 +1,4 @@
-package Command;
+package BehavioralPatterns.Command;
 
 import java.util.HashMap;
 

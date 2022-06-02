@@ -1,4 +1,4 @@
-package GeneratingPatterns.AbstractFactory.Prototype;
+package GeneratingPatterns.Prototype;
 
 /*создает клоны объекта по заданному прототипу*/
 

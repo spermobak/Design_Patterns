@@ -1,4 +1,4 @@
-package Bridge;
+package StructuralPatterns.Bridge;
 
 /*Отделить абстракцию от ее реализации так,
 чтобы то и другое можно было изменять независимо*/

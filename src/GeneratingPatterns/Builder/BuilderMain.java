@@ -1,4 +1,4 @@
-package GeneratingPatterns.AbstractFactory.Builder;
+package GeneratingPatterns.Builder;
 
 /*Отделяет конструирование объекта от его представления*/
 

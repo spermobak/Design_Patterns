@@ -1,4 +1,4 @@
-package Adapter;
+package StructuralPatterns.Adapter;
 
 /*Преобрзует интерфейс одного класса в другой интерфейс*/
 public class AdapterMain {

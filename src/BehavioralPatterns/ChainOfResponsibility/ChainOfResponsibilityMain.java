@@ -1,4 +1,4 @@
-package ChainOfResponsibility;
+package BehavioralPatterns.ChainOfResponsibility;
 
 /*Позволяет избежать привязки отправителя запроса к его получателю,
 предоставляя возможность обработать запрос нескольким объектам*/
